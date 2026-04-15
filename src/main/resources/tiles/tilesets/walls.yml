@@ -1,0 +1,68 @@
+tilesetFilename: "/tiles/tilesets/walls.png"
+tileSize: 16
+
+tiles:
+    - id: 1
+      descriptor: "ul"
+      row: 0
+      col: 0
+    - id: 2
+      descriptor: "h1"
+      row: 0
+      col: 1
+    - id: 3
+      descriptor: "h2"
+      row: 0
+      col: 2
+    - id: 4
+      descriptor: "ur"
+      row: 0
+      col: 3
+    - id: 5
+      descriptor: "v1"
+      row: 1
+      col: 0
+    - id: 6
+      descriptor: "c"
+      row: 1
+      col: 1
+    - id: 7
+      descriptor: "vm"
+      row: 1
+      col: 2
+    - id: 8
+      descriptor: "v2"
+      row: 1
+      col: 3
+    - id: 9
+      descriptor: "v3"
+      row: 2
+      col: 0
+    - id: 10
+      descriptor: "hml"
+      row: 2
+      col: 1
+    - id: 11
+      descriptor: "hmr"
+      row: 2
+      col: 2
+    - id: 12
+      descriptor: "v4"
+      row: 2
+      col: 3
+    - id: 13
+      descriptor: "ll"
+      row: 3
+      col: 0
+    - id: 14
+      descriptor: "h3"
+      row: 3
+      col: 1
+    - id: 15
+      descriptor: "h4"
+      row: 3
+      col: 2
+    - id: 16
+      descriptor: "lr"
+      row: 3
+      col: 3
